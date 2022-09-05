@@ -1,0 +1,1 @@
+const personDetails = require("./exportObject");
